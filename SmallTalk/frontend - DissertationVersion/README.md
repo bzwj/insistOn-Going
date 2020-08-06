@@ -1,6 +1,6 @@
 # Vue-chat
 
-使用Vue.js实现一个仿微信pc版的小demo.
+使用Vue.js实现一个仿网页版微信的小demo.
 
 ## Build Setup
 
@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:80
 npm run dev
 
 # build for production with minification
