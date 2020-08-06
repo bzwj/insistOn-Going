@@ -1,0 +1,65 @@
+{
+  "id": "1768975",
+  "name": "smchat",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12956926",
+      "name": "smile",
+      "font_class": "smile",
+      "unicode": "eac1",
+      "unicode_decimal": 60097
+    },
+    {
+      "icon_id": "11611706",
+      "name": "GIF",
+      "font_class": "GIF",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "759693",
+      "name": "exit",
+      "font_class": "exit",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "851864",
+      "name": "icon-msg",
+      "font_class": "5",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "6583769",
+      "name": "friend",
+      "font_class": "friend",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "9535833",
+      "name": "群 (1) (1)",
+      "font_class": "qun",
+      "unicode": "e7e6",
+      "unicode_decimal": 59366
+    },
+    {
+      "icon_id": "11293969",
+      "name": "friend",
+      "font_class": "friend1",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "13705053",
+      "name": "foundation info",
+      "font_class": "foundationinfo",
+      "unicode": "eb73",
+      "unicode_decimal": 60275
+    }
+  ]
+}

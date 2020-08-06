@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8a505af-2cbb-4cb7-9c2e-20ef345be7e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="backend - DissertationVersion" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1aZF4GzxtHansSnU2WoE26ftWtt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/go" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Alex\chat\app\Go Modules" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Alex\chat" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build contract.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="chat" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/app/controller/contract.go" />
+      <package value="chat" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="chat" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/app/main.go" />
+      <package value="chat" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build user.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="chat" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/app/controller/user.go" />
+      <package value="chat" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:9755/chat/app/view/user/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="register.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:9755/chat/app/view/user/register.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build contract.go" />
+        <item itemvalue="Go Build.go build user.go" />
+        <item itemvalue="JavaScript Debug.register.html" />
+        <item itemvalue="JavaScript Debug.login.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="206" key="#Go_Modules_(vgo)" timestamp="1586935032988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="579" y="206" key="#Go_Modules_(vgo)/0.0.1920.1040@0.0.1920.1040" timestamp="1586935032988" />
+    <state x="701" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590765384753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590765384753" />
+    <state x="675" y="180" key="#go_build_contract.go" timestamp="1590766891100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="180" key="#go_build_contract.go/0.0.1920.1040@0.0.1920.1040" timestamp="1590766891100" />
+    <state x="675" y="180" key="#go_build_user.go" timestamp="1587094783951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="180" key="#go_build_user.go/0.0.1920.1040@0.0.1920.1040" timestamp="1587094783951" />
+    <state x="930" y="282" key="FileChooserDialogImpl" timestamp="1587828083496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="930" y="282" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587828083496" />
+    <state width="1594" height="221" key="GridCell.Tab.0.bottom" timestamp="1590940830442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1594" height="221" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590940830442" />
+    <state width="1572" height="181" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587655677887" />
+    <state width="1594" height="221" key="GridCell.Tab.0.center" timestamp="1590940830442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1594" height="221" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590940830442" />
+    <state width="1572" height="181" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587655677887" />
+    <state width="1594" height="221" key="GridCell.Tab.0.left" timestamp="1590940830442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1594" height="221" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590940830442" />
+    <state width="1572" height="181" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587655677887" />
+    <state width="1594" height="221" key="GridCell.Tab.0.right" timestamp="1590940830442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1594" height="221" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590940830442" />
+    <state width="1572" height="181" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587655677887" />
+    <state x="375" y="178" key="SettingsEditor" timestamp="1587640472250">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="281" y="131" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1587628234928" />
+    <state x="281" y="132" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587111894396" />
+    <state x="375" y="178" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587640472250" />
+  </component>
+</project>
