@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "animate.css": "^3.7.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
     "view-design": "^4.1.3",
